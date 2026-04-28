@@ -1,0 +1,11 @@
+{
+  "version": 2.8,
+  "name": "find_any_lyrics2",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ],
+  "trailingSlash": false
+}
